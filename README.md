@@ -24,9 +24,9 @@ Identify trends across seasons and venues.
 
 
 🛠️ Technologies Used:
-Python 🐍
+Python 🐍,,
 Pandas
-Streamlit (for dashboard)
+Streamlit (for dashboard).
 
 
 📊 Key Analysis:
